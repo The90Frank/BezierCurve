@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\Tutorial4.XML
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\Tutorial4.exe
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\Tutorial4.pdb
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\FSharp.Core.dll
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\System.ValueTuple.dll
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\FSharp.Core.xml
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\bin\Release\it\FSharp.Core.resources.dll
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\obj\Release\Tutorial4.fsproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\obj\Release\Tutorial4.exe
+C:\Users\franc\source\repos\Tutorial4\Tutorial4\obj\Release\Tutorial4.pdb
